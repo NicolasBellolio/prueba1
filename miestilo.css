@@ -1,0 +1,7 @@
+/* Comentario en css*/
+body{
+    background-color:rgba(0, 0, 255, 0.61);
+    color:blueviolet;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 6em;
+}
